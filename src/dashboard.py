@@ -11,8 +11,13 @@ from .analysis import (
     kpi_cards, monthly_trend, primary_metric, strongest_correlations,
 )
 
-PALETTE = ["#2563eb", "#10b981", "#f59e0b", "#ef4444", "#8b5cf6", "#06b6d4", "#ec4899", "#64748b"]
-_LAYOUT = dict(template="plotly_white", margin=dict(l=10, r=10, t=50, b=10), colorway=PALETTE, height=380, legend=dict(orientation="h", y=-0.2))
+PALETTE = ["#7c3aed", "#db2777", "#06b6d4", "#f59e0b", "#10b981", "#3b82f6", "#f97316", "#64748b"]
+_LAYOUT = dict(
+    template="plotly_white", margin=dict(l=10, r=10, t=50, b=10), colorway=PALETTE, height=380,
+    legend=dict(orientation="h", y=-0.2), paper_bgcolor="rgba(0,0,0,0)", plot_bgcolor="rgba(0,0,0,0)",
+    font=dict(color="#312e81"), title=dict(font=dict(size=16, color="#312e81")),
+    xaxis=dict(gridcolor="#ece7ff"), yaxis=dict(gridcolor="#ece7ff"),
+)
 
 
 def show_plot(fig: go.Figure, key: str | None = None) -> None:
@@ -145,7 +150,7 @@ def render_general_charts(df: pd.DataFrame, roles: dict) -> None:
             show_plot(px.line(tr, x="month", y="Records", markers=True, title="Records per month"), "gen_trend")
     corr = correlation_matrix(df)
     if not corr.empty:
-        fig = px.imshow(corr, text_auto=".2f", color_continuous_scale="RdBu_r", zmin=-1, zmax=1, title="Correlation matrix")
+        fig = px.imshow(corr, text_auto=".2f", color_continuous_scale="PuOr_r", zmin=-1, zmax=1, title="Correlation matrix")
         show_plot(fig, "gen_corr")
 
 
@@ -170,7 +175,7 @@ def render_correlations(df: pd.DataFrame, roles: dict) -> None:
     if corr.empty:
         st.info("Correlations need at least two numeric columns with variation and 10+ rows.")
         return
-    fig = px.imshow(corr, text_auto=".2f", color_continuous_scale="RdBu_r", zmin=-1, zmax=1, title="Correlation matrix (Pearson)")
+    fig = px.imshow(corr, text_auto=".2f", color_continuous_scale="PuOr_r", zmin=-1, zmax=1, title="Correlation matrix (Pearson)")
     show_plot(fig, "eda_corr")
     pairs = strongest_correlations(df, roles, min_abs=0.5)
     if pairs:

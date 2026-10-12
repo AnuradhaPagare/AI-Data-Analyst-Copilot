@@ -28,9 +28,31 @@ st.set_page_config(page_title="AI Data Analyst Copilot", page_icon="📊", layou
 st.markdown(
     """
     <style>
+    /* page background: soft lavender -> pink -> sky gradient */
+    [data-testid="stApp"] {background: linear-gradient(135deg, #ede9fe 0%, #fce7f3 50%, #e0f2fe 100%); background-attachment: fixed;}
+    [data-testid="stHeader"] {background: transparent;}
     .block-container {padding-top: 2rem; max-width: 1300px;}
-    div[data-testid="stMetric"] {background:#f3f6fb; border:1px solid #e2e8f0; border-radius:10px; padding:12px 14px;}
-    .app-sub {color:#64748b; margin-top:-0.6rem; margin-bottom:1rem;}
+    /* gradient page title */
+    h1 {background: linear-gradient(90deg, #7c3aed 0%, #db2777 100%); -webkit-background-clip: text;
+        background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800 !important; letter-spacing: -0.5px;}
+    h2, h3 {color: #312e81;}
+    .app-sub {color: #6b7280; margin-top: -0.6rem; margin-bottom: 1.2rem;}
+    /* sidebar */
+    section[data-testid="stSidebar"] {background: rgba(255, 255, 255, 0.92); border-right: 1px solid #e9e1ff;}
+    /* KPI cards */
+    div[data-testid="stMetric"] {background: #ffffff; border: 1px solid #ece7ff; border-left: 5px solid #7c3aed;
+        border-radius: 12px; padding: 12px 16px; box-shadow: 0 2px 10px rgba(124, 58, 237, 0.08);}
+    div[data-testid="stMetricValue"] {color: #4c1d95; font-weight: 700;}
+    div[data-testid="stMetricLabel"] {color: #6b7280;}
+    /* buttons */
+    button[kind="primary"], button[data-testid="stBaseButton-primary"] {background: linear-gradient(90deg, #7c3aed, #db2777);
+        border: none; color: #fff; font-weight: 600; border-radius: 10px;}
+    button[kind="primary"]:hover, button[data-testid="stBaseButton-primary"]:hover {filter: brightness(1.08); box-shadow: 0 4px 14px rgba(124, 58, 237, 0.35);}
+    button[kind="secondary"], button[data-testid="stBaseButton-secondary"] {border-radius: 10px; border: 1px solid #d8ccff; color: #4c1d95;}
+    button[kind="secondary"]:hover, button[data-testid="stBaseButton-secondary"]:hover {border-color: #7c3aed; background: #f3efff; color: #5b21b6;}
+    /* containers, expanders, alerts */
+    div[data-testid="stExpander"], div[data-testid="stVerticalBlockBorderWrapper"] {border-radius: 12px; background: rgba(255, 255, 255, 0.75);}
+    div[data-testid="stAlert"] {border-radius: 10px;}
     </style>
     """,
     unsafe_allow_html=True,
