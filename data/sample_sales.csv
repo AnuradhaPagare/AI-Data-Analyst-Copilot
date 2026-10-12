@@ -1,0 +1,368 @@
+order_id,order_date,product,category,region,quantity,unit_price,revenue,cost,profit,customer_segment
+ORD-00001,2023-01-05,Notebook Pack,Office Supplies,West,4.0,17.1,68.4,44.47,23.93,
+ORD-00002,2023-01-09,Printer Paper,Office Supplies,West,1.0,30.94,30.94,21.93,9.01,Small Business
+ORD-00003,2023-01-09,Notebook Pack,Office Supplies,North,6.0,17.81,106.86,67.92,38.94,Small Business
+ORD-00004,2023-01-15,Bookshelf,Furniture,North,10.0,149.47,1494.7,1011.92,482.78,Consumer
+ORD-00005,2023-01-24,Desk Organizer,Office Supplies,West,11.0,43.54,478.94,291.21,187.73,Consumer
+ORD-00006,2023-02-06,Antivirus License,Software,South,2.0,55.84,111.68,37.28,74.4,Small Business
+ORD-00007,2023-02-07,Antivirus License,Software,South,11.0,53.46,588.06,207.63,380.43,Corporate
+ORD-00008,2023-02-08,Notebook Pack,Office Supplies,North,10.0,18.59,185.9,113.01,72.89,Consumer
+ORD-00009,2023-02-09,Notebook Pack,Office Supplies,West,5.0,17.85,89.25,56.66,32.59,Corporate
+ORD-00010,2023-02-10,Ergonomic Chair,Furniture,East,3.0,210.46,631.38,436.1,195.28,Corporate
+ORD-00011,2023-02-13,Laptop Pro 14,Electronics,North,2.0,987.48,1974.96,1571.68,403.28,Small Business
+ORD-00012,2023-02-18,Bookshelf,Furniture,North,1.0,156.53,156.53,99.3,57.23,Corporate
+ORD-00013,2023-02-18,Wireless Headphones,Electronics,South,4.0,115.19,460.76,330.09,130.67,Consumer
+ORD-00014,2023-02-21,Smartphone X,Electronics,North,4.0,608.86,2435.44,1967.42,468.02,Consumer
+ORD-00015,2023-02-22,Tablet Air,Electronics,North,5.0,394.76,1973.8,1578.68,395.12,Consumer
+ORD-00016,2023-02-25,Smartphone X,Electronics,West,4.0,596.56,2386.24,2025.95,360.29,Small Business
+ORD-00016,2023-02-25,Smartphone X,Electronics,West,4.0,596.56,2386.24,2025.95,360.29,Small Business
+ORD-00017,2023-02-28,Bookshelf,Furniture,West,2.0,148.52,297.04,201.84,95.2,Corporate
+ORD-00018,2023-02-28,Ink Cartridge,Office Supplies,East,11.0,68.11,749.21,479.01,270.2,Small Business
+ORD-00019,2023-03-01,Ergonomic Chair,Furniture,North,5.0,202.19,1010.95,727.11,283.84,Consumer
+ORD-00020,2023-03-02,Ink Cartridge,Office Supplies,South,5.0,64.08,320.4,216.56,103.84,Corporate
+ORD-00021,2023-03-06,Antivirus License,Software,East,9.0,54.06,486.54,167.81,318.73,Corporate
+ORD-00022,2023-03-08,Printer Paper,Office Supplies,South,11.0,31.43,345.73,244.12,101.61,Consumer
+ORD-00023,2023-03-11,Wireless Headphones,Electronics,West,6.0,116.57,699.42,505.9,193.52,Consumer
+ORD-00024,2023-03-13,Ink Cartridge,Office Supplies,North,8.0,65.63,525.04,351.93,173.11,Small Business
+ORD-00025,2023-03-16,Standing Desk,Furniture,East,1.0,456.22,456.22,340.7,115.52,Corporate
+ORD-00026,2023-03-20,Laptop Pro 14,Electronics,South,5.0,983.45,4917.25,3894.16,1023.09,Consumer
+ORD-00027,2023-03-21,Ink Cartridge,Office Supplies,North,11.0,64.17,705.87,480.92,224.95,Consumer
+ORD-00028,2023-03-22,Ink Cartridge,Office Supplies,West,4.0,65.24,260.96,179.06,81.9,Small Business
+ORD-00029,2023-03-27,Wireless Headphones,Electronics,West,11.0,118.49,1303.39,901.89,401.5,Corporate
+ORD-00030,2023-03-27,Notebook Pack,Office Supplies,South,7.0,18.19,127.33,77.77,49.56,Consumer
+ORD-00031,2023-03-29,Smartphone X,Electronics,West,5.0,606.63,3033.15,2450.8,582.35,Consumer
+ORD-00032,2023-04-20,Bookshelf,Furniture,East,9.0,152.85,1375.65,899.46,476.19,Consumer
+ORD-00033,2023-04-24,Printer Paper,Office Supplies,North,2.0,32.07,64.14,44.03,20.11,Consumer
+ORD-00034,2023-04-24,Ergonomic Chair,Furniture,West,1.0,219.39,219.39,146.16,73.23,Small Business
+ORD-00035,2023-05-09,Smartphone X,Electronics,South,3.0,628.32,1884.96,1481.66,403.3,Consumer
+ORD-00036,2023-05-13,Notebook Pack,Office Supplies,East,8.0,18.83,150.64,86.82,63.82,Consumer
+ORD-00037,2023-05-22,Productivity Suite,Software,North,5.0,144.72,723.6,259.9,463.7,Small Business
+ORD-00038,2023-05-24,Smartphone X,Electronics,South,1.0,645.78,645.78,498.01,147.77,Consumer
+ORD-00039,2023-05-24,Laptop Pro 14,Electronics,West,1.0,920.49,920.49,769.0,151.49,Consumer
+ORD-00040,2023-05-25,Ink Cartridge,Office Supplies,West,11.0,67.15,738.65,492.73,245.92,Small Business
+ORD-00041,2023-06-09,Smartphone X,Electronics,West,5.0,622.7,3113.5,2539.36,574.14,Corporate
+ORD-00042,2023-06-11,Bookshelf,Furniture,South,9.0,148.3,1334.7,910.38,424.32,Consumer
+ORD-00043,2023-06-12,Smartphone X,Electronics,North,3.0,646.7,1940.1,1498.02,442.08,Consumer
+ORD-00043,2023-06-12,Smartphone X,Electronics,North,3.0,646.7,1940.1,1498.02,442.08,Consumer
+ORD-00044,2023-06-12,Wireless Headphones,Electronics,West,9.0,116.62,1049.58,756.71,292.87,Small Business
+ORD-00045,2023-06-18,Tablet Air,Electronics,East,3.0,363.41,1090.23,906.51,183.72,Small Business
+ORD-00046,2023-06-18,Notebook Pack,Office Supplies,,1.0,17.46,17.46,11.36,6.1,Small Business
+ORD-00047,2023-06-19,Antivirus License,Software,West,2.0,53.49,106.98,37.26,69.72,Consumer
+ORD-00048,2023-06-26,Ink Cartridge,Office Supplies,East,4.0,62.94,251.76,172.33,79.43,Corporate
+ORD-00049,2023-06-26,Standing Desk,Furniture,North,5.0,464.11,2320.55,1797.9,522.65,Consumer
+ORD-00050,2023-06-27,Bookshelf,Furniture,West,3.0,150.12,450.36,304.84,145.52,Corporate
+ORD-00051,2023-07-01,Bookshelf,Furniture,East,11.0,151.39,1665.29,1103.69,561.6,Consumer
+ORD-00052,2023-07-01,Antivirus License,Software,North,5.0,57.18,285.9,93.36,192.54,Small Business
+ORD-00053,2023-07-16,Printer Paper,Office Supplies,East,9.0,32.44,291.96,205.91,86.05,Consumer
+ORD-00054,2023-07-17,Printer Paper,Office Supplies,South,9.0,33.47,301.23,200.04,101.19,Small Business
+ORD-00055,2023-07-21,Bookshelf,Furniture,North,1.0,145.73,145.73,103.5,42.23,Consumer
+ORD-00056,2023-07-22,Printer Paper,Office Supplies,North,9.0,33.26,299.34,198.85,100.49,Small Business
+ORD-00057,2023-07-22,Smartphone X,Electronics,West,2.0,621.82,1243.64,1014.79,228.85,Corporate
+ORD-00057,2023-07-22,Smartphone X,Electronics,West,2.0,621.82,1243.64,1014.79,228.85,Corporate
+ORD-00058,2023-07-24,Wireless Headphones,Electronics,North,3.0,119.74,359.22,246.67,112.55,Consumer
+ORD-00059,2023-07-25,Smartphone X,Electronics,West,4.0,593.34,2373.36,1981.75,391.61,Corporate
+ORD-00060,2023-07-26,Ink Cartridge,Office Supplies,South,7.0,67.08,469.56,300.11,169.45,Consumer
+ORD-00061,2023-07-29,Bookshelf,Furniture,North,4.0,153.78,615.12,403.44,211.68,Consumer
+ORD-00062,2023-07-29,Standing Desk,Furniture,West,2.0,473.73,947.46,689.7,257.76,Small Business
+ORD-00063,2023-07-31,Bookshelf,Furniture,West,7.0,157.48,1102.36,718.86,383.5,Small Business
+ORD-00064,2023-08-02,Ink Cartridge,Office Supplies,South,8.0,62.28,498.24,338.28,159.96,Corporate
+ORD-00065,2023-08-06,Standing Desk,Furniture,North,3.0,496.16,1488.48,1026.52,461.96,Small Business
+ORD-00066,2023-08-07,Ink Cartridge,Office Supplies,South,7.0,67.42,471.94,311.98,159.96,Consumer
+ORD-00067,2023-08-17,Tablet Air,Electronics,South,5.0,374.1,1870.5,1544.26,326.24,Consumer
+ORD-00068,2023-08-19,Wireless Headphones,Electronics,West,7.0,125.39,877.73,584.57,293.16,Corporate
+ORD-00069,2023-08-20,Wireless Headphones,Electronics,North,9.0,117.18,1054.62,774.75,279.87,Corporate
+ORD-00070,2023-08-23,Ink Cartridge,Office Supplies,North,2.0,63.55,127.1,89.53,37.57,Consumer
+ORD-00071,2023-08-24,Standing Desk,Furniture,West,4.0,493.05,1972.2,1391.37,580.83,Consumer
+ORD-00072,2023-08-31,Laptop Pro 14,Electronics,North,2.0,996.94,1993.88,1514.87,479.01,Corporate
+ORD-00073,2023-08-31,Ink Cartridge,Office Supplies,North,9.0,66.61,599.49,388.93,210.56,Consumer
+ORD-00074,2023-08-31,Standing Desk,Furniture,East,1.0,497.37,497.37,353.39,143.98,Small Business
+ORD-00075,2023-09-08,Standing Desk,Furniture,West,4.0,467.8,1871.2,1420.93,450.27,Consumer
+ORD-00076,2023-09-10,Bookshelf,Furniture,South,5.0,145.28,726.4,508.89,217.51,Small Business
+ORD-00077,2023-09-12,Productivity Suite,Software,North,6.0,136.84,821.04,314.5,506.54,Small Business
+ORD-00078,2023-09-13,Standing Desk,Furniture,North,5.0,496.64,2483.2,1741.4,741.8,Consumer
+ORD-00079,2023-09-16,Printer Paper,Office Supplies,West,5.0,33.34,166.7,114.36,52.34,Consumer
+ORD-00080,2023-09-17,Laptop Pro 14,Electronics,West,4.0,931.55,3726.2,3138.23,587.97,Consumer
+ORD-00081,2023-09-18,Ink Cartridge,Office Supplies,East,2.0,64.62,129.24,89.07,40.17,Corporate
+ORD-00082,2023-09-20,Ink Cartridge,Office Supplies,North,11.0,63.62,699.82,468.07,231.75,Corporate
+ORD-00083,2023-09-22,Bookshelf,Furniture,,6.0,154.3,925.8,627.17,298.63,Corporate
+ORD-00084,2023-09-22,Printer Paper,Office Supplies,West,7.0,31.0,217.0,159.58,57.42,Corporate
+ORD-00085,2023-09-23,Productivity Suite,Software,West,2.0,141.94,283.88,106.23,177.65,Consumer
+ORD-00086,2023-10-03,Standing Desk,Furniture,South,5.0,469.63,2348.15,1782.25,565.9,Small Business
+ORD-00087,2023-10-06,Productivity Suite,Software,East,9.0,137.72,1239.48,481.86,757.62,Small Business
+ORD-00088,2023-10-10,Laptop Pro 14,Electronics,East,2.0,970.13,1940.26,1563.94,376.32,Consumer
+ORD-00089,2023-10-11,Ergonomic Chair,Furniture,North,5.0,207.83,1039.15,754.63,284.52,Corporate
+ORD-00090,2023-10-16,Tablet Air,Electronics,North,5.0,389.35,1946.75,1574.62,372.13,Corporate
+ORD-00091,2023-10-19,Ink Cartridge,Office Supplies,East,9.0,61.93,557.37,402.73,154.64,Corporate
+ORD-00092,2023-10-22,Desk Organizer,Office Supplies,East,3.0,44.89,134.67,80.75,53.92,Consumer
+ORD-00093,2023-10-23,Productivity Suite,Software,West,10.0,141.1,1411.0,520.54,890.46,Small Business
+ORD-00094,2023-10-24,Antivirus License,Software,North,9.0,53.18,478.62,165.39,313.23,Consumer
+ORD-00095,2023-10-25,Laptop Pro 14,Electronics,East,1.0,915.09,915.09,794.3,120.79,Small Business
+ORD-00096,2023-10-26,Printer Paper,Office Supplies,East,11.0,32.44,356.84,246.73,110.11,Consumer
+ORD-00097,2023-10-26,Ergonomic Chair,Furniture,North,1.0,216.23,216.23,144.89,71.34,Consumer
+ORD-00098,2023-10-30,Ink Cartridge,Office Supplies,North,6.0,66.21,397.26,266.89,130.37,Small Business
+ORD-00099,2023-10-31,Ergonomic Chair,Furniture,East,4.0,218.61,874.44,580.77,293.67,Consumer
+ORD-00100,2023-11-01,Notebook Pack,Office Supplies,North,3.0,18.2,54.6,33.73,20.87,Corporate
+ORD-00101,2023-11-02,Printer Paper,Office Supplies,North,8.0,31.83,254.64,178.22,76.42,Consumer
+ORD-00102,2023-11-02,Standing Desk,Furniture,East,5.0,467.38,2336.9,1786.66,550.24,Small Business
+ORD-00103,2023-11-06,Bookshelf,Furniture,East,7.0,156.42,1094.94,713.65,381.29,Corporate
+ORD-00104,2023-11-09,Desk Organizer,Office Supplies,West,7.0,45.07,315.49,188.79,126.7,Corporate
+ORD-00105,2023-11-10,Bookshelf,Furniture,North,13.0,145.21,1887.73,1303.48,584.25,Consumer
+ORD-00106,2023-11-12,Standing Desk,Furniture,East,6.0,491.21,2947.26,2043.38,903.88,Consumer
+ORD-00107,2023-11-14,Antivirus License,Software,South,13.0,54.04,702.52,245.16,457.36,Small Business
+ORD-00108,2023-11-15,Tablet Air,Electronics,West,1.0,380.01,380.01,312.53,67.48,Small Business
+ORD-00109,2023-11-16,Wireless Headphones,Electronics,West,9.0,117.15,1054.35,759.74,294.61,Small Business
+ORD-00110,2023-11-20,Bookshelf,Furniture,North,5.0,155.4,777.0,523.25,253.75,Corporate
+ORD-00111,2023-11-21,Ink Cartridge,Office Supplies,West,3.0,68.16,204.48,134.45,70.03,Small Business
+ORD-00112,2023-11-22,Tablet Air,Electronics,East,2.0,381.8,763.6,617.84,145.76,Corporate
+ORD-00113,2023-11-27,Standing Desk,Furniture,North,5.0,471.87,2359.35,1712.81,646.54,Small Business
+ORD-00114,2023-11-28,Standing Desk,Furniture,North,5.0,492.45,2462.25,1757.67,704.58,Consumer
+ORD-00115,2023-12-02,Wireless Headphones,Electronics,East,3.0,114.78,344.34,245.27,99.07,Consumer
+ORD-00116,2023-12-04,Ink Cartridge,Office Supplies,South,9.0,65.69,591.21,390.65,200.56,Consumer
+ORD-00117,2023-12-05,Ink Cartridge,Office Supplies,East,8.0,62.91,503.28,356.84,146.44,Consumer
+ORD-00118,2023-12-06,Wireless Headphones,Electronics,West,12.0,122.7,1472.4,1014.01,458.39,Corporate
+ORD-00119,2023-12-08,Ergonomic Chair,Furniture,South,6.0,204.21,1225.26,857.97,367.29,Corporate
+ORD-00120,2023-12-08,Laptop Pro 14,Electronics,West,3.0,963.68,2891.04,2352.48,538.56,Small Business
+ORD-00121,2023-12-10,Desk Organizer,Office Supplies,North,1.0,45.47,45.47,26.59,18.88,Consumer
+ORD-00122,2023-12-16,Bookshelf,Furniture,West,2.0,145.15,290.3,207.97,82.33,Consumer
+ORD-00123,2023-12-17,Antivirus License,Software,West,7.0,57.49,402.43,127.07,275.36,Small Business
+ORD-00124,2023-12-18,Productivity Suite,Software,West,1.0,140.7,140.7,51.85,88.85,Corporate
+ORD-00125,2023-12-21,Printer Paper,Office Supplies,North,7.0,30.89,216.23,159.06,57.17,Corporate
+ORD-00126,2023-12-21,Ink Cartridge,Office Supplies,West,6.0,65.06,390.36,258.36,132.0,Corporate
+ORD-00127,2023-12-26,Ergonomic Chair,Furniture,East,6.0,209.24,1255.44,905.42,350.02,Consumer
+ORD-00128,2023-12-30,Ink Cartridge,Office Supplies,East,2.0,67.29,134.58,85.75,48.83,Small Business
+ORD-00129,2023-12-31,Tablet Air,Electronics,East,1.0,366.72,366.72,300.2,66.52,Consumer
+ORD-00130,2023-12-31,Laptop Pro 14,Electronics,South,5.0,974.11,4870.55,3844.78,1025.77,Small Business
+ORD-00131,2024-01-01,Bookshelf,Furniture,North,4.0,156.79,627.16,411.69,215.47,Small Business
+ORD-00132,2024-01-02,Bookshelf,Furniture,,10.0,144.79,1447.9,1031.48,416.42,Consumer
+ORD-00133,2024-01-04,Smartphone X,Electronics,North,2.0,621.36,1242.72,978.88,263.84,Corporate
+ORD-00134,2024-01-05,Ergonomic Chair,Furniture,North,3.0,201.78,605.34,428.13,177.21,Corporate
+ORD-00135,2024-01-06,Standing Desk,Furniture,North,4.0,481.46,1925.84,1409.46,516.38,Corporate
+ORD-00136,2024-01-06,Ergonomic Chair,Furniture,West,5.0,201.61,1008.05,747.47,260.58,Consumer
+ORD-00137,2024-01-10,Notebook Pack,Office Supplies,West,3.0,18.52,55.56,33.75,21.81,Small Business
+ORD-00138,2024-01-15,Laptop Pro 14,Electronics,South,4.0,954.46,3817.84,3049.96,767.88,
+ORD-00139,2024-01-15,Laptop Pro 14,Electronics,West,1.0,933.27,933.27,778.06,155.21,Corporate
+ORD-00140,2024-01-16,Smartphone X,Electronics,East,3.0,647.62,1942.86,1467.09,475.77,Consumer
+ORD-00141,2024-01-19,Standing Desk,Furniture,East,1.0,502.61,502.61,345.33,157.28,Small Business
+ORD-00142,2024-01-19,Standing Desk,Furniture,East,5.0,497.06,2485.3,1740.43,744.87,Small Business
+ORD-00143,2024-01-20,Wireless Headphones,Electronics,East,8.0,118.7,949.6,659.91,289.69,Consumer
+ORD-00144,2024-01-23,Printer Paper,Office Supplies,East,4.0,31.54,126.16,88.79,37.37,Corporate
+ORD-00145,2024-01-24,Ergonomic Chair,Furniture,South,1.0,203.99,203.99,150.53,53.46,Consumer
+ORD-00146,2024-01-31,Bookshelf,Furniture,North,10.0,146.08,1460.8,1035.12,425.68,Small Business
+ORD-00147,2024-02-01,Antivirus License,Software,South,3.0,56.17,168.51,57.76,110.75,
+ORD-00148,2024-02-01,Bookshelf,Furniture,North,7.0,145.17,1016.19,718.85,297.34,Small Business
+ORD-00149,2024-02-02,Tablet Air,Electronics,North,2.0,370.13,740.26,607.25,133.01,Consumer
+ORD-00150,2024-02-04,Wireless Headphones,Electronics,South,1.0,118.62,118.62,83.19,35.43,Consumer
+ORD-00151,2024-02-08,Laptop Pro 14,Electronics,East,2.0,996.63,1993.26,1598.06,395.2,Corporate
+ORD-00152,2024-02-12,Ergonomic Chair,Furniture,West,2.0,215.56,431.12,300.07,131.05,Consumer
+ORD-00153,2024-02-15,Ink Cartridge,Office Supplies,West,8.0,67.79,542.32,339.92,202.4,Small Business
+ORD-00154,2024-02-19,Smartphone X,Electronics,West,5.0,591.12,2955.6,2520.2,435.4,Corporate
+ORD-00155,2024-02-19,Ink Cartridge,Office Supplies,South,4.0,64.44,257.76,169.42,88.34,Consumer
+ORD-00156,2024-02-21,Standing Desk,Furniture,West,1.0,498.21,498.21,345.57,152.64,Consumer
+ORD-00157,2024-02-22,Ergonomic Chair,Furniture,North,4.0,204.9,819.6,588.09,231.51,Consumer
+ORD-00158,2024-02-26,Notebook Pack,Office Supplies,West,6.0,18.58,111.48,65.98,45.5,Small Business
+ORD-00159,2024-02-27,Antivirus License,Software,West,7.0,55.15,386.05,128.31,257.74,Corporate
+ORD-00160,2024-03-02,Tablet Air,Electronics,East,5.0,365.38,1826.9,1544.9,282.0,Consumer
+ORD-00161,2024-03-04,Notebook Pack,Office Supplies,East,2.0,18.02,36.04,22.0,14.04,Consumer
+ORD-00162,2024-03-09,Antivirus License,Software,East,9.0,53.27,479.43,166.52,312.91,Corporate
+ORD-00163,2024-03-09,Standing Desk,Furniture,West,3.0,503.99,1511.97,1048.38,463.59,Corporate
+ORD-00164,2024-03-13,Antivirus License,Software,West,2.0,52.88,105.76,38.36,67.4,Consumer
+ORD-00165,2024-03-14,Ergonomic Chair,Furniture,North,4.0,203.49,813.96,602.05,211.91,Corporate
+ORD-00166,2024-03-14,Laptop Pro 14,Electronics,East,3.0,964.6,2893.8,2314.43,579.37,Consumer
+ORD-00167,2024-03-15,Antivirus License,Software,South,10.0,53.0,530.0,184.98,345.02,Corporate
+ORD-00168,2024-03-16,Ergonomic Chair,Furniture,South,,207.25,829.0,579.34,249.66,Consumer
+ORD-00169,2024-03-16,Tablet Air,Electronics,West,2.0,374.12,748.24,616.85,131.39,Consumer
+ORD-00170,2024-03-16,Notebook Pack,Office Supplies,West,7.0,18.04,126.28,80.04,46.24,Consumer
+ORD-00171,2024-03-17,Standing Desk,Furniture,East,5.0,478.0,2390.0,1709.19,680.81,Consumer
+ORD-00172,2024-03-17,Desk Organizer,Office Supplies,East,8.0,46.01,368.08,220.79,147.29,Corporate
+ORD-00173,2024-03-19,Desk Organizer,Office Supplies,North,7.0,42.91,300.37,189.64,110.73,Small Business
+ORD-00174,2024-03-20,Printer Paper,Office Supplies,East,10.0,31.0,310.0,221.84,88.16,Consumer
+ORD-00175,2024-03-20,Smartphone X,Electronics,West,3.0,601.39,1804.17,1469.46,334.71,Corporate
+ORD-00176,2024-03-21,Printer Paper,Office Supplies,East,10.0,31.36,313.6,217.81,95.79,Consumer
+ORD-00177,2024-03-22,Laptop Pro 14,Electronics,East,5.0,974.37,4871.85,3888.37,983.48,Consumer
+ORD-00178,2024-03-24,Ergonomic Chair,Furniture,West,4.0,208.55,834.2,591.46,242.74,Small Business
+ORD-00179,2024-03-28,Smartphone X,Electronics,North,2.0,610.83,1221.66,979.35,242.31,Small Business
+ORD-00180,2024-03-28,Bookshelf,Furniture,South,5.0,142.99,714.95,496.75,218.2,Consumer
+ORD-00181,2024-03-31,Tablet Air,Electronics,East,2.0,368.53,737.06,618.32,118.74,Corporate
+ORD-00182,2024-04-02,Ergonomic Chair,Furniture,East,5.0,202.41,1012.05,731.84,280.21,Small Business
+ORD-00183,2024-04-05,Ergonomic Chair,Furniture,East,3.0,203.08,609.24,429.6,179.64,Consumer
+ORD-00184,2024-04-05,Desk Organizer,Office Supplies,North,7.0,46.63,326.41,192.8,133.61,Consumer
+ORD-00185,2024-04-06,Laptop Pro 14,Electronics,West,3.0,954.59,2863.77,2326.66,537.11,Corporate
+ORD-00186,2024-04-09,Bookshelf,Furniture,North,10.0,144.75,1447.5,1040.24,407.26,Corporate
+ORD-00187,2024-04-09,Productivity Suite,Software,South,2.0,136.69,273.38,105.88,167.5,Corporate
+ORD-00188,2024-04-11,Bookshelf,Furniture,South,8.0,147.08,1176.64,803.8,372.84,Consumer
+ORD-00189,2024-04-12,Productivity Suite,Software,North,3.0,142.71,428.13,162.93,265.2,Consumer
+ORD-00190,2024-04-12,Laptop Pro 14,Electronics,North,4.0,974.91,3899.64,3207.08,692.56,Corporate
+ORD-00191,2024-04-13,Laptop Pro 14,Electronics,East,5.0,936.62,4683.1,3780.71,902.39,Small Business
+ORD-00192,2024-04-15,Tablet Air,Electronics,East,3.0,365.71,1097.13,926.46,170.67,Small Business
+ORD-00193,2024-04-17,Desk Organizer,Office Supplies,South,6.0,43.86,263.16,162.54,100.62,Consumer
+ORD-00194,2024-04-18,Antivirus License,Software,East,10.0,57.61,576.1,186.07,390.03,Corporate
+ORD-00195,2024-04-18,Smartphone X,Electronics,North,2.0,593.18,1186.36,1017.68,168.68,Consumer
+ORD-00196,2024-04-20,Ink Cartridge,Office Supplies,North,3.0,67.6,202.8,132.42,70.38,Corporate
+ORD-00197,2024-04-21,Printer Paper,Office Supplies,South,3.0,32.7,98.1,67.55,30.55,Corporate
+ORD-00198,2024-04-23,Antivirus License,Software,West,9.0,55.9,503.1,167.67,335.43,Small Business
+ORD-00199,2024-04-25,Smartphone X,Electronics,North,1.0,618.85,618.85,498.13,120.72,Consumer
+ORD-00200,2024-04-25,Notebook Pack,Office Supplies,East,3.0,18.28,54.84,33.92,20.92,Small Business
+ORD-00201,2024-05-01,Printer Paper,Office Supplies,East,11.0,30.72,337.92,243.05,94.87,Small Business
+ORD-00202,2024-05-01,Printer Paper,Office Supplies,East,6.0,32.3,193.8,132.16,61.64,Small Business
+ORD-00203,2024-05-04,Notebook Pack,Office Supplies,East,11.0,17.9,196.9,125.44,71.46,Corporate
+ORD-00204,2024-05-05,Ergonomic Chair,Furniture,South,3.0,202.5,607.5,432.88,174.62,
+ORD-00205,2024-05-06,Bookshelf,Furniture,,11.0,147.57,1623.27,1143.25,480.02,Small Business
+ORD-00206,2024-05-06,Ink Cartridge,Office Supplies,South,3.0,65.71,197.13,134.25,62.88,Consumer
+ORD-00207,2024-05-09,Antivirus License,Software,West,11.0,55.29,608.19,202.14,406.05,Corporate
+ORD-00208,2024-05-10,Laptop Pro 14,Electronics,North,5.0,992.8,4964.0,3971.92,992.08,Consumer
+ORD-00209,2024-05-11,Antivirus License,Software,South,8.0,55.78,446.24,149.26,296.98,Consumer
+ORD-00210,2024-05-11,Smartphone X,Electronics,North,5.0,640.87,3204.35,2427.3,777.05,Corporate
+ORD-00211,2024-05-14,Wireless Headphones,Electronics,West,4.0,118.42,473.68,338.54,135.14,Consumer
+ORD-00212,2024-05-15,Productivity Suite,Software,East,2.0,144.61,289.22,107.24,181.98,Corporate
+ORD-00213,2024-05-20,Printer Paper,Office Supplies,South,6.0,32.27,193.62,136.67,56.95,Consumer
+ORD-00214,2024-05-21,Bookshelf,Furniture,North,1.0,149.05,149.05,101.02,48.03,Corporate
+ORD-00215,2024-05-23,Ergonomic Chair,Furniture,East,1.0,206.21,206.21,145.18,61.03,Corporate
+ORD-00216,2024-05-24,Printer Paper,Office Supplies,North,11.0,31.31,344.41,249.25,95.16,Consumer
+ORD-00217,2024-05-25,Bookshelf,Furniture,East,10.0,,1526.7,1035.1,491.6,Corporate
+ORD-00218,2024-05-29,Standing Desk,Furniture,West,1.0,460.8,460.8,353.66,107.14,Consumer
+ORD-00219,2024-05-31,Notebook Pack,Office Supplies,East,,18.08,144.64,89.92,54.72,Small Business
+ORD-00220,2024-06-03,Smartphone X,Electronics,North,4.0,590.61,2362.44,2024.02,338.42,
+ORD-00221,2024-06-03,Laptop Pro 14,Electronics,South,4.0,918.27,3673.08,3106.86,566.22,Small Business
+ORD-00222,2024-06-08,Productivity Suite,Software,West,5.0,134.74,673.7,262.73,410.97,Consumer
+ORD-00223,2024-06-09,Standing Desk,Furniture,South,5.0,475.74,2378.7,1769.6,609.1,Small Business
+ORD-00224,2024-06-09,Laptop Pro 14,Electronics,East,5.0,960.85,4804.25,3832.5,971.75,Consumer
+ORD-00225,2024-06-11,Productivity Suite,Software,East,11.0,143.82,1582.02,577.16,1004.86,Consumer
+ORD-00225,2024-06-11,Productivity Suite,Software,East,11.0,143.82,1582.02,577.16,1004.86,Consumer
+ORD-00226,2024-06-13,Ink Cartridge,Office Supplies,West,10.0,67.61,676.1,445.36,230.74,Consumer
+ORD-00227,2024-06-13,Antivirus License,Software,South,10.0,55.33,553.3,185.23,368.07,Consumer
+ORD-00228,2024-06-13,Smartphone X,Electronics,East,3.0,644.04,1932.12,1499.62,432.5,Consumer
+ORD-00229,2024-06-14,Bookshelf,Furniture,West,7.0,145.48,1018.36,723.28,295.08,Corporate
+ORD-00230,2024-06-14,Ink Cartridge,Office Supplies,West,3.0,67.48,202.44,132.45,69.99,Corporate
+ORD-00231,2024-06-18,Ink Cartridge,Office Supplies,South,1.0,67.04,67.04,44.19,22.85,Small Business
+ORD-00232,2024-06-22,Standing Desk,Furniture,West,5.0,461.09,2305.45,1723.17,582.28,Consumer
+ORD-00233,2024-06-22,Standing Desk,Furniture,North,3.0,494.68,1484.04,1076.12,407.92,
+ORD-00234,2024-06-24,Bookshelf,Furniture,South,3.0,149.21,447.63,304.14,143.49,Corporate
+ORD-00235,2024-06-25,Bookshelf,Furniture,West,2.0,153.68,307.36,202.06,105.3,Small Business
+ORD-00236,2024-07-01,Smartphone X,Electronics,North,3.0,533.89,1601.67,1509.35,92.32,Corporate
+ORD-00237,2024-07-02,Tablet Air,Electronics,West,3.0,330.43,991.29,944.22,47.07,Small Business
+ORD-00238,2024-07-02,Wireless Headphones,Electronics,West,6.0,100.66,603.96,500.77,103.19,Corporate
+ORD-00239,2024-07-04,Notebook Pack,Office Supplies,West,1.0,18.38,18.38,11.14,7.24,Consumer
+ORD-00240,2024-07-04,Wireless Headphones,Electronics,North,5.0,110.58,552.9,413.63,139.27,Consumer
+ORD-00241,2024-07-04,Ink Cartridge,Office Supplies,East,11.0,68.19,750.09,465.03,285.06,Corporate
+ORD-00242,2024-07-05,Ink Cartridge,Office Supplies,East,3.0,64.42,193.26,128.05,65.21,Small Business
+ORD-00243,2024-07-06,Smartphone X,Electronics,East,1.0,518.47,518.47,490.01,28.46,Consumer
+ORD-00244,2024-07-06,Tablet Air,Electronics,East,2.0,323.75,647.5,616.69,30.81,Corporate
+ORD-00245,2024-07-08,Smartphone X,Electronics,West,,560.05,1120.1,983.7,136.4,Consumer
+ORD-00246,2024-07-09,Wireless Headphones,Electronics,East,10.0,100.67,1006.7,826.15,180.55,Small Business
+ORD-00247,2024-07-09,Smartphone X,Electronics,East,3.0,565.77,1697.31,1505.72,191.59,Corporate
+ORD-00248,2024-07-13,Printer Paper,Office Supplies,North,10.0,30.72,307.2,221.52,85.68,Small Business
+ORD-00249,2024-07-14,Standing Desk,Furniture,West,1.0,503.57,503.57,343.29,160.28,Small Business
+ORD-00250,2024-07-17,Laptop Pro 14,Electronics,East,4.0,823.86,3295.44,3143.78,151.66,Consumer
+ORD-00251,2024-07-22,Smartphone X,Electronics,North,3.0,553.12,1659.36,1474.73,184.63,Corporate
+ORD-00252,2024-07-24,Printer Paper,Office Supplies,West,2.0,33.39,66.78,44.49,22.29,Consumer
+ORD-00253,2024-07-25,Desk Organizer,Office Supplies,South,3.0,45.36,136.08,81.62,54.46,Corporate
+ORD-00254,2024-07-28,Ink Cartridge,Office Supplies,East,11.0,64.95,714.45,466.44,248.01,Consumer
+ORD-00255,2024-07-28,Tablet Air,Electronics,North,4.0,,1295.32,1206.51,88.81,Small Business
+ORD-00256,2024-07-28,Printer Paper,Office Supplies,South,4.0,30.49,121.96,89.92,32.04,Corporate
+ORD-00257,2024-07-28,Standing Desk,Furniture,West,1.0,488.6,488.6,341.02,147.58,Small Business
+ORD-00258,2024-07-29,Desk Organizer,Office Supplies,East,11.0,43.74,481.14,302.57,178.57,Consumer
+ORD-00259,2024-07-30,Standing Desk,Furniture,,3.0,488.82,1466.46,1060.23,406.23,Consumer
+ORD-00260,2024-07-31,Ergonomic Chair,Furniture,South,3.0,216.03,648.09,439.23,208.86,Consumer
+ORD-00261,2024-08-01,Wireless Headphones,Electronics,South,5.0,101.0,505.0,426.74,78.26,Consumer
+ORD-00262,2024-08-02,Standing Desk,Furniture,West,3.0,471.4,1414.2,1067.47,346.73,Corporate
+ORD-00263,2024-08-02,Standing Desk,Furniture,South,1.0,475.89,475.89,350.93,124.96,Consumer
+ORD-00264,2024-08-03,Standing Desk,Furniture,West,4.0,475.7,1902.8,1406.39,496.41,Consumer
+ORD-00265,2024-08-04,Printer Paper,Office Supplies,North,10.0,31.2,312.0,218.87,93.13,Consumer
+ORD-00266,2024-08-05,Standing Desk,Furniture,North,3.0,456.05,1368.15,1029.87,338.28,Corporate
+ORD-00267,2024-08-05,Ergonomic Chair,Furniture,North,3.0,200.01,600.03,452.68,147.35,Consumer
+ORD-00268,2024-08-05,Smartphone X,Electronics,West,3.0,552.02,1656.06,1497.85,158.21,Consumer
+ORD-00269,2024-08-06,Antivirus License,Software,West,5.0,54.56,272.8,92.85,179.95,Consumer
+ORD-00270,2024-08-09,Antivirus License,Software,North,3.0,55.82,167.46,57.67,109.79,Small Business
+ORD-00271,2024-08-10,Notebook Pack,Office Supplies,South,7.0,18.06,126.42,78.93,47.49,Consumer
+ORD-00272,2024-08-11,Tablet Air,Electronics,West,4.0,318.83,1275.32,1246.63,28.69,Consumer
+ORD-00273,2024-08-13,Smartphone X,Electronics,East,1.0,550.5,550.5,501.48,49.02,Consumer
+ORD-00273,2024-08-13,Smartphone X,Electronics,East,1.0,550.5,550.5,501.48,49.02,Consumer
+ORD-00274,2024-08-14,Printer Paper,Office Supplies,West,8.0,31.06,248.48,179.88,68.6,Corporate
+ORD-00275,2024-08-14,Bookshelf,Furniture,West,9.0,146.17,1315.53,891.08,424.45,Consumer
+ORD-00276,2024-08-16,Ink Cartridge,Office Supplies,South,4.0,63.59,254.36,173.35,81.01,Small Business
+ORD-00277,2024-08-18,Antivirus License,Software,West,8.0,56.52,452.16,146.44,305.72,Corporate
+ORD-00278,2024-08-18,Ergonomic Chair,Furniture,West,5.0,199.75,998.75,723.88,274.87,Small Business
+ORD-00279,2024-08-19,Antivirus License,Software,South,11.0,53.66,590.26,206.23,384.03,Consumer
+ORD-00280,2024-08-21,Notebook Pack,Office Supplies,North,2.0,17.94,35.88,22.52,13.36,Small Business
+ORD-00281,2024-08-22,Bookshelf,Furniture,West,5.0,153.15,765.75,516.61,249.14,Corporate
+ORD-00282,2024-08-23,Tablet Air,Electronics,North,5.0,337.95,1689.75,1498.96,190.79,Consumer
+ORD-00283,2024-08-23,Notebook Pack,Office Supplies,South,11.0,18.52,203.72,125.13,78.59,Corporate
+ORD-00284,2024-08-24,Notebook Pack,Office Supplies,West,2.0,18.28,36.56,21.93,14.63,Consumer
+ORD-00285,2024-08-24,Ink Cartridge,Office Supplies,West,8.0,66.6,532.8,339.71,193.09,Corporate
+ORD-00286,2024-08-24,Smartphone X,Electronics,West,3.0,559.29,1677.87,1469.51,208.36,Small Business
+ORD-00286,2024-08-24,Smartphone X,Electronics,West,3.0,559.29,1677.87,1469.51,208.36,Small Business
+ORD-00287,2024-08-27,Printer Paper,Office Supplies,South,6.0,33.43,200.58,131.11,69.47,Consumer
+ORD-00288,2024-08-29,Standing Desk,Furniture,South,2.0,478.76,957.52,703.77,253.75,Consumer
+ORD-00289,2024-08-30,Tablet Air,Electronics,North,5.0,330.32,1651.6,1565.77,85.83,Consumer
+ORD-00290,2024-08-30,Tablet Air,Electronics,North,5.0,341.29,1706.45,1549.88,156.57,Consumer
+ORD-00291,2024-08-31,Printer Paper,Office Supplies,East,10.0,32.85,328.5,223.29,105.21,Small Business
+ORD-00292,2024-08-31,Bookshelf,Furniture,West,5.0,156.28,781.4,502.31,279.09,Consumer
+ORD-00293,2024-09-06,Printer Paper,Office Supplies,,1.0,31.99,31.99,22.56,9.43,Consumer
+ORD-00294,2024-09-06,Tablet Air,Electronics,West,4.0,332.46,1329.84,1212.32,117.52,Consumer
+ORD-00295,2024-09-06,Standing Desk,Furniture,North,5.0,491.12,2455.6,1746.58,709.02,Small Business
+ORD-00296,2024-09-11,Ink Cartridge,Office Supplies,South,5.0,67.4,337.0,223.06,113.94,Corporate
+ORD-00297,2024-09-11,Printer Paper,Office Supplies,West,9.0,30.76,276.84,203.53,73.31,Small Business
+ORD-00298,2024-09-11,Ergonomic Chair,Furniture,West,2.0,209.03,418.06,294.83,123.23,Small Business
+ORD-00299,2024-09-11,Productivity Suite,Software,North,2.0,139.52,279.04,103.51,175.53,Consumer
+ORD-00300,2024-09-12,Tablet Air,Electronics,West,5.0,349.56,1747.8,1510.88,236.92,Small Business
+ORD-00301,2024-09-12,Printer Paper,Office Supplies,West,1.0,32.47,32.47,21.98,10.49,
+ORD-00302,2024-09-23,Tablet Air,Electronics,East,4.0,339.63,1358.52,1227.6,130.92,Consumer
+ORD-00303,2024-09-23,Printer Paper,Office Supplies,South,9.0,30.92,278.28,199.57,78.71,Corporate
+ORD-00303,2024-09-23,Printer Paper,Office Supplies,South,9.0,30.92,278.28,199.57,78.71,Corporate
+ORD-00304,2024-09-24,Wireless Headphones,Electronics,East,3.0,106.04,318.12,246.39,71.73,Small Business
+ORD-00305,2024-09-24,Standing Desk,Furniture,West,2.0,458.06,916.12,710.11,206.01,Small Business
+ORD-00306,2024-09-24,Laptop Pro 14,Electronics,North,5.0,825.68,4128.4,3849.04,279.36,Small Business
+ORD-00307,2024-09-26,Laptop Pro 14,Electronics,West,2.0,855.65,1711.3,1577.79,133.51,Consumer
+ORD-00308,2024-09-28,Laptop Pro 14,Electronics,North,5.0,823.78,4118.9,3807.08,311.82,Consumer
+ORD-00309,2024-09-30,Laptop Pro 14,Electronics,West,5.0,820.29,4101.45,4007.7,93.75,Consumer
+ORD-00310,2024-09-30,Desk Organizer,Office Supplies,North,1.0,45.86,45.86,26.35,19.51,Consumer
+ORD-00311,2024-10-01,Notebook Pack,Office Supplies,East,4.0,18.38,73.52,45.94,27.58,Consumer
+ORD-00312,2024-10-02,Ink Cartridge,Office Supplies,West,11.0,61.78,679.58,479.26,200.32,Consumer
+ORD-00313,2024-10-10,Bookshelf,Furniture,West,10.0,143.71,1437.1,1033.89,403.21,Consumer
+ORD-00314,2024-10-12,Tablet Air,Electronics,East,1.0,318.58,318.58,308.79,9.79,Corporate
+ORD-00315,2024-10-12,Standing Desk,Furniture,West,2.0,463.41,926.82,718.96,207.86,Small Business
+ORD-00316,2024-10-13,Productivity Suite,Software,North,7.0,146.0,1022.0,370.54,651.46,Consumer
+ORD-00317,2024-10-16,Smartphone X,Electronics,East,5.0,556.58,2782.9,2523.25,259.65,Consumer
+ORD-00318,2024-10-17,Desk Organizer,Office Supplies,South,2.0,42.81,85.62,53.29,32.33,
+ORD-00319,2024-10-18,Ink Cartridge,Office Supplies,East,1.0,62.65,62.65,44.35,18.3,Consumer
+ORD-00320,2024-10-19,Printer Paper,Office Supplies,East,9.0,31.81,286.29,196.91,89.38,Consumer
+ORD-00321,2024-10-21,Wireless Headphones,Electronics,South,1.0,103.33,103.33,83.27,20.06,Small Business
+ORD-00322,2024-10-21,Notebook Pack,Office Supplies,East,2.0,17.64,35.28,21.8,13.48,Consumer
+ORD-00323,2024-10-23,Ink Cartridge,Office Supplies,North,7.0,68.06,476.42,305.82,170.6,Corporate
+ORD-00324,2024-10-23,Laptop Pro 14,Electronics,East,5.0,802.68,4013.4,3850.3,163.1,Consumer
+ORD-00325,2024-10-25,Smartphone X,Electronics,North,1.0,544.35,544.35,491.2,53.15,Consumer
+ORD-00326,2024-10-26,Ink Cartridge,Office Supplies,East,8.0,62.66,501.28,358.01,143.27,Corporate
+ORD-00327,2024-10-27,Desk Organizer,Office Supplies,South,7.0,44.93,314.51,189.38,125.13,Consumer
+ORD-00328,2024-11-01,Printer Paper,Office Supplies,North,9.0,31.28,281.52,196.69,84.83,Corporate
+ORD-00329,2024-11-01,Printer Paper,Office Supplies,East,2.0,31.79,63.58,44.4,19.18,Corporate
+ORD-00330,2024-11-02,Bookshelf,Furniture,East,6.0,156.99,941.94,621.41,320.53,Corporate
+ORD-00331,2024-11-02,Laptop Pro 14,Electronics,East,1.0,815.6,815.6,802.34,13.26,Consumer
+ORD-00332,2024-11-07,Laptop Pro 14,Electronics,West,6.0,844.33,5065.98,4553.85,512.13,Small Business
+ORD-00333,2024-11-08,Notebook Pack,Office Supplies,North,10.0,17.22,172.2,113.19,59.01,Consumer
+ORD-00334,2024-11-09,Ergonomic Chair,Furniture,West,5.0,208.61,1043.05,744.16,298.89,Corporate
+ORD-00335,2024-11-10,Ink Cartridge,Office Supplies,West,13.0,65.04,845.52,556.74,288.78,Consumer
+ORD-00336,2024-11-13,Laptop Pro 14,Electronics,East,3.0,824.86,2474.58,2316.16,158.42,Small Business
+ORD-00337,2024-11-18,Ergonomic Chair,Furniture,North,6.0,216.76,1300.56,863.88,436.68,Corporate
+ORD-00338,2024-11-19,Printer Paper,Office Supplies,South,7.0,32.29,226.03,159.38,66.65,Consumer
+ORD-00339,2024-11-20,Smartphone X,Electronics,East,6.0,545.35,3272.1,2950.34,321.76,Corporate
+ORD-00340,2024-11-23,Printer Paper,Office Supplies,East,1.0,31.42,31.42,22.19,9.23,Corporate
+ORD-00341,2024-11-28,Ergonomic Chair,Furniture,South,5.0,213.1,1065.5,718.91,346.59,Small Business
+ORD-00342,2024-11-28,Laptop Pro 14,Electronics,South,2.0,807.84,1615.68,1558.68,57.0,Consumer
+ORD-00343,2024-11-29,Productivity Suite,Software,West,7.0,137.01,959.07,380.58,578.49,Corporate
+ORD-00344,2024-12-01,Wireless Headphones,Electronics,South,7.0,,742.84,603.68,139.16,Consumer
+ORD-00345,2024-12-03,Smartphone X,Electronics,West,2.0,519.87,1039.74,1006.31,33.43,
+ORD-00346,2024-12-05,Smartphone X,Electronics,West,5.0,553.67,2768.35,2415.84,352.51,Corporate
+ORD-00347,2024-12-05,Productivity Suite,Software,East,1.0,140.22,140.22,52.41,87.81,Consumer
+ORD-00348,2024-12-08,Printer Paper,Office Supplies,South,12.0,32.04,384.48,261.61,122.87,Consumer
+ORD-00349,2024-12-09,Printer Paper,Office Supplies,South,1.0,33.12,33.12,22.88,10.24,Corporate
+ORD-00350,2024-12-10,Standing Desk,Furniture,West,5.0,481.38,2406.9,1708.52,698.38,Small Business
+ORD-00351,2024-12-10,Ink Cartridge,Office Supplies,North,9.0,68.15,613.35,386.02,227.33,Corporate
+ORD-00352,2024-12-11,Ergonomic Chair,Furniture,North,3.0,199.65,598.95,443.55,155.4,Consumer
+ORD-00353,2024-12-12,Laptop Pro 14,Electronics,West,6.0,822.35,4934.1,4724.22,209.88,Consumer
+ORD-00354,2024-12-12,Ink Cartridge,Office Supplies,North,6.0,65.39,392.34,253.48,138.86,Small Business
+ORD-00355,2024-12-16,Ink Cartridge,Office Supplies,South,5.0,61.88,309.4,221.56,87.84,Small Business
+ORD-00356,2024-12-18,Laptop Pro 14,Electronics,East,6.0,857.01,5142.06,4756.17,385.89,Consumer
+ORD-00357,2024-12-18,Ergonomic Chair,Furniture,South,5.0,208.89,1044.45,737.31,307.14,Corporate
+ORD-00358,2024-12-23,Standing Desk,Furniture,East,6.0,499.63,2997.78,2156.91,840.87,Consumer
+ORD-00359,2024-12-26,Desk Organizer,Office Supplies,East,1.0,45.9,45.9,27.4,18.5,Corporate
+ORD-00360,2024-12-26,Wireless Headphones,Electronics,West,12.0,106.53,1278.36,977.91,300.45,Corporate
